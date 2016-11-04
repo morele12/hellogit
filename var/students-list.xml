@@ -2,6 +2,13 @@
 
 <students>
     <student>
+        <firstname>Student0</firstname>
+        <lastname>Student0</lastname>
+        <email>student@uek.krakow.pl</email>
+        <github>morele12</github>
+        <group>KrDZIs3012Io</group>
+</student>   
+ <student>
         <firstname>Student1</firstname>
         <lastname>Student1</lastname>
         <email>student@uek.krakow.pl</email>
